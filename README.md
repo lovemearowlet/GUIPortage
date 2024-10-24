@@ -6,7 +6,7 @@ Why you should use it: It is a super basic and easy way to install apps for Gent
 ---
 Requirements: COMING SOON
 ---
-Status: Testing TKinter 
+Status: Trying to make a base in Rust
 ---
 Site: https://lovemearowlet.github.io/GP/About.html
 ---
